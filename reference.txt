@@ -1,0 +1,22 @@
+Features of axios
+
+Supports GET, POST, PUT, DELETE, and other HTTP methods.
+Handles automatic JSON data transformation.
+Supports interceptors for modifying requests or responses.
+Handles timeouts and error responses gracefully.
+Allows for request cancellation.
+Supports Cross-Origin Resource Sharing (CORS).
+Works with Node.js and browsers.
+
+GET
+Used to retrieve data from a server.
+PUT
+Used to update or replace an existing resource.
+DELETE
+Used to delete a resource from a server.
+
+
+
+mongoose
+Mongoose is a popular Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a schema-based solution for modeling application data, making it easier to interact with MongoDB databases. Mongoose allows developers to define data schemas and models, perform validations, and interact with the database using an elegant and structured syntax.
+
